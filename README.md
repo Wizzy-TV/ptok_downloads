@@ -1,9 +1,9 @@
 ### [Click here to Play](https://wizzir.itch.io/ptok)
 THE WEB VERSION OF THE GAME IS HIGHLY CROPPED TO RUN ON ANY DEVICE WHAT SUPPORT WEBGL 1.0 OR HIGHER. AND MAY NOT WORK PROPERLY ON SOME RESOLUTIONS!
 ## Backup download links
-- [Android]()
-* [Windows]()
-+ [Windows]()
+- [Android](https://wizzy-tv.github.io/ptok_downloads/Ptok%201.0%20-%20Android.apk)
+* [Windows Portable]()
++ [Windows Installer]()
 ## Description
 The game consists, as long as possible, of flying between pipes without hitting them, that is, quite similar to the popular Flappy Bird.
 
